@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-24",
+  "features": {
+    "node": "24"
+  },
+  "postCreateCommand": "npm install"
+}
